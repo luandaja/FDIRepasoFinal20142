@@ -51,7 +51,6 @@
     <Compile Include="Asistencia.cs">
       <DependentUpon>ModeloDeDatos.tt</DependentUpon>
     </Compile>
-    <Compile Include="Class1.cs" />
     <Compile Include="Empleado.cs">
       <DependentUpon>ModeloDeDatos.tt</DependentUpon>
     </Compile>

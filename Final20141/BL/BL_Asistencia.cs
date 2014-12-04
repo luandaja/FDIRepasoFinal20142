@@ -187,8 +187,5 @@ namespace BL
             }
             return estado;  
         }
-
-
-
     }
 }
