@@ -19,3 +19,9 @@ C:\Users\LuisAntoni\Documents\GitHub\FDIRepasoFinal20142\Final20141\UI\obj\Debug
 C:\Users\LuisAntoni\Documents\GitHub\FDIRepasoFinal20142\Final20141\UI\obj\Debug\UI.csproj.GenerateResource.Cache
 C:\Users\LuisAntoni\Documents\GitHub\FDIRepasoFinal20142\Final20141\UI\obj\Debug\UI.exe
 C:\Users\LuisAntoni\Documents\GitHub\FDIRepasoFinal20142\Final20141\UI\obj\Debug\UI.pdb
+C:\Users\LuisAntoni\Documents\GitHub\FDIRepasoFinal20142\Final20141\UI\obj\Debug\Menu.baml
+C:\Users\LuisAntoni\Documents\GitHub\FDIRepasoFinal20142\Final20141\UI\obj\Debug\PEmpleado.baml
+C:\Users\LuisAntoni\Documents\GitHub\FDIRepasoFinal20142\Final20141\UI\obj\Debug\Menu.g.cs
+C:\Users\LuisAntoni\Documents\GitHub\FDIRepasoFinal20142\Final20141\UI\obj\Debug\PEmpleado.g.cs
+C:\Users\LuisAntoni\Documents\GitHub\FDIRepasoFinal20142\Final20141\UI\obj\Debug\IngresoEmpleado.baml
+C:\Users\LuisAntoni\Documents\GitHub\FDIRepasoFinal20142\Final20141\UI\obj\Debug\IngresoEmpleado.g.cs
